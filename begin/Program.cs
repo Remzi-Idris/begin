@@ -1,1 +1,1 @@
-﻿Console.WriteLine("Remzi Idris");
+﻿Console.WriteLine("vad är ditt namn?");
